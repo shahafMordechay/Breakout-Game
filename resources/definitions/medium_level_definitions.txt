@@ -1,0 +1,35 @@
+START_LEVEL
+level_name:King Messi
+ball_velocities:60,400 -60,400
+background:image(background_images/family_gut_background.png)
+paddle_speed:650
+paddle_width:160
+block_definitions:definitions/family_guy_block_definition.txt
+blocks_start_x:225
+blocks_start_y:200
+row_height:100
+num_blocks:10
+START_BLOCKS
+rrrrr
+rrrrr
+END_BLOCKS
+END_LEVEL
+
+START_LEVEL
+level_name:World Cup
+ball_velocities:45,400 -45,400
+background:image(background_images/world_cup.jpeg)
+paddle_speed:650
+paddle_width:160
+block_definitions:definitions/mondial_block_definition.txt
+blocks_start_x:199
+blocks_start_y:200
+row_height:34
+num_blocks:32
+START_BLOCKS
+i*m*p*u*c*h*P*A
+d*D*f*g*a*B*o*j
+l*G*b*k*E*H*C*J
+F*n*r*M*s*e*t*I
+END_BLOCKS
+END_LEVEL

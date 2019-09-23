@@ -1,0 +1,2 @@
+# block definitions
+bdef symbol:r width:70 height:100 hit_points:2 fill-1:image(block_images/cr_bad.jpeg) fill-2:image(block_images/cr_good.jpeg) stroke:color(black)
